@@ -1,0 +1,47 @@
+{
+  "name": "The Managers #9459",
+  "description": "Experience the new ERC6551 NFT standard, and join the new era in ownership and digital identity",
+  "image": "https://ipfs.io/ipfs/QmZjdSRgVGWmHLHCn99Ww5gR3ZJkReZVx9xF997VWYdiob/9459.png",
+  "dna": "c4b140d1d0e2566ea2deccd74c5121d68a480d24",
+  "edition": 9459,
+  "date": 1687516456838,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Rockabilly brown"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Dorky"
+    },
+    {
+      "trait_type": "Pupils",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hipster black happy"
+    },
+    {
+      "trait_type": "Props",
+      "value": "Earbud"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue"
+    }
+  ],
+  "animation_url": "https://iframe-tokenbound.vercel.app/0x8c34E6e60731D1Ff7E26c712EA1f798F90F29Ec6/9459"
+}

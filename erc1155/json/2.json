@@ -1,0 +1,11 @@
+{
+  "name": "The Managers - Starter Pack",
+  "description": "Managers Token Bound Account Starter pack airdrop. Wrist watch NFT.",
+  "image": "https://ipfs.io/ipfs/QmQpicQpENa65LjYqFxs3d3RUV2wbfj6ZE7mfZc7DHJsKe/images/watch.png",
+  "attributes": [
+    {
+      "trait_type": "Essentials",
+      "value": "Watch"
+    }
+  ]
+}

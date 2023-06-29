@@ -1,0 +1,11 @@
+{
+  "name": "The Managers - Starter Pack",
+  "description": "Managers Token Bound Account Starter pack airdrop. Executive pen NFT.",
+  "image": "https://ipfs.io/ipfs/QmQpicQpENa65LjYqFxs3d3RUV2wbfj6ZE7mfZc7DHJsKe/images/pen.png",
+  "attributes": [
+    {
+      "trait_type": "Essentials",
+      "value": "Executive Pen"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Managers - Starter Pack",
+  "description": "Managers Token Bound Account Starter pack airdrop. Money NFT.",
+  "image": "https://ipfs.io/ipfs/QmQpicQpENa65LjYqFxs3d3RUV2wbfj6ZE7mfZc7DHJsKe/images/money.png",
+  "attributes": [
+    {
+      "trait_type": "Essentials",
+      "value": "Money"
+    }
+  ]
+}
