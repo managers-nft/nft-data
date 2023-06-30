@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">Offical repo for The Managers NFT Images and Metadata, all of the data is stored in IPFS. For provenance you can download the images and json files and mmake a hash of them with IPFS 
- you would get the same hash as the one in the blockchain. An example of how to do that is going to each directory and using IFPS CLI and command <strong>ipfs add -r . </strong>  </p>
+ you would get the same hash as the one in the blockchain. <br> An example of how to do that is going to each directory and using IFPS CLI and command <strong>ipfs add -r . </strong>  </p>
 
 ### Data for ERC721 
 
